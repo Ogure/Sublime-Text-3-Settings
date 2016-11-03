@@ -1,1 +1,5 @@
 git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
+
+git remote add origin https://github.com/Ogure/Sublime-Text-3-Settings.git
+git remote -v
+git push origin master
