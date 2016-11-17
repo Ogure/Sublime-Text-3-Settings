@@ -8,6 +8,8 @@
 		"Alignment",
 		"BracketGuard",
 		"BracketHighlighter",
+		"Git",
+		"JavaImports",
 		"Package Control",
 		"WordHighlight"
 	]
