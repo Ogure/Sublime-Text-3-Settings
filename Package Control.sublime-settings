@@ -2,18 +2,24 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Unity Completions"
 	],
 	"installed_packages":
 	[
 		"Alignment",
 		"ApplySyntax",
+		"Boo",
 		"BracketGuard",
 		"BracketHighlighter",
 		"C# Snippets",
 		"Git",
 		"JavaImports",
 		"Package Control",
+		"Unity Completions",
+		"Unity Completions Light",
 		"Unity3D",
+		"Unity3D Shader Highlighter and Snippets",
+		"Unity3D Snippets and Completes",
 		"WordHighlight"
 	]
 }
