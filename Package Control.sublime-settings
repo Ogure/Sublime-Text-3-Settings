@@ -6,11 +6,14 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ApplySyntax",
 		"BracketGuard",
 		"BracketHighlighter",
+		"C# Snippets",
 		"Git",
 		"JavaImports",
 		"Package Control",
+		"Unity3D",
 		"WordHighlight"
 	]
 }
