@@ -8,9 +8,14 @@
 		"Alignment",
 		"BracketGuard",
 		"BracketHighlighter",
+		"C# Snippets",
 		"Git",
 		"JavaImports",
 		"Package Control",
+		"SideBarEnhancements",
+		"Unity Completions Light",
+		"Unity3D",
+		"Unity3D Snippets and Completes",
 		"WordHighlight"
 	]
 }
