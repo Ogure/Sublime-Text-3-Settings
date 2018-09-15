@@ -2,5 +2,8 @@
 	{"keys": ["ctrl+shift+f"], "command": "reindent", "args": {"single_line": false}},
 	{ "keys": ["ctrl+t"], "command": "new_file" },
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
-	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	{ "keys": ["ctrl+:"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } }
 ]
+
